@@ -36,7 +36,7 @@ Bu proje Microsoft AZ204 eğitimi için hazırlanmış NodeJs ile kodlanmış ba
 
  <p align="right">(<a href="#top">back to top</a>)</p>
  
-## Getting Started
+### Getting Started
 
 Uygulamayı lokalinizi indirerek bağımlılıkları yükledikten sonra yeni fonksiyonlar ekleyerek Azure üzerine deploy edebilirsiniz.
 Proje içerisinde yer alan fonksiyon çeşitleri
