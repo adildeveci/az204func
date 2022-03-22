@@ -28,13 +28,11 @@
 
 Bu proje Microsoft AZ204 eğitimi için hazırlanmış NodeJs ile kodlanmış basit bir Azure Function projesidir.
 
- <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
 - [NodeJS](https://nodejs.org/)
 
- <p align="right">(<a href="#top">back to top</a>)</p>
  
 ### Getting Started
 
