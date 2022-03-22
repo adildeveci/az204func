@@ -28,6 +28,14 @@
 
 Bu proje Microsoft AZ204 eğitimi için hazırlanmış NodeJs ile kodlanmış basit bir Azure Function projesidir.
 
+![image](https://user-images.githubusercontent.com/21089760/159502378-08c4ab4f-0019-4370-8282-28b8e92240a8.png)
+
+![image](https://user-images.githubusercontent.com/21089760/159502572-7a8c98c8-d0b9-4806-b2c6-825c4848f4ed.png)
+
+![image](https://user-images.githubusercontent.com/21089760/159503523-5370939b-6087-495f-acf7-363334b8e70d.png)
+![image](https://user-images.githubusercontent.com/21089760/159504627-ec27a399-7bf5-4594-aa06-a1cc2e480eaa.png)
+
+
 
 ### Built With
 
